@@ -1,10 +1,10 @@
 # JS Way Chapters 1 - 9
   
-  This repository contains the lesson plan through the chapters of Js Way.
+This repository contains the lesson plan through the chapters of Js Way.
   
-  [Link to the Official JSWay learning plan and its repository.](https://github.com/thejsway/thejsway/tree/master/manuscript)
+[Link to the Official JSWay learning plan and its repository.](https://github.com/thejsway/thejsway/tree/master/manuscript)
 
- # Skills Covered
+# Skills Covered
 
 * 💎 Object Oriented Programming
 * 💎 ES6+ Javascript
