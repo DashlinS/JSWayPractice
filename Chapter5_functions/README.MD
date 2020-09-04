@@ -102,6 +102,7 @@ console.log(square2(0)); // Must show 0
 console.log(square2(2)); // Must show 4
 console.log(square2(5)); // Must show 25
 ```
+
 When it's done, update the program so that it shows the square of every number between 0 and 10.
 
 [JS Answer](https://github.com/DashlinS/JSWAY/blob/master/Chapter5_functions/JS/numberSquare.js)
