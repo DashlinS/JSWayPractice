@@ -55,7 +55,7 @@ Learned **Template Literal** is an expression included in a string using backtic
 Learned `prompt('')` command allows interaction with the user for user input.
 Regardless of data entered, this always returns a string value. If to be converted to numerical expressions, it _must_ be converted into a number with the `Number()` command.
 
-## <a name="jump_down">Coding Challenges!</a>
+## <a name="jump_down">Coding Challenges!!</a>
 
 ### Improved hello
 
